@@ -1,0 +1,5 @@
+chemdataextractor
+numpy
+pyyaml
+scikit-learn
+spacy
