@@ -1,0 +1,1170 @@
+[INFO] [2018-07-17 22:34:50] Rank 1 running on host n0044.savio2.
+[INFO] [2018-07-17 22:34:51] Rank 1/2: Begin of configuration and initialization.
+[INFO] [2018-07-17 22:35:06] Rank 1/2: End of configration and initialization.
+[INFO] [2018-07-17 22:35:06] Rank 1/2: Begin of training.
+[DEBUG] [2018-07-17 22:35:06] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:35:08] Rank = 1, Iter = 0, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:35:09] Rank = 1, Alias Time used: 0.68 s 
+[INFO] [2018-07-17 22:36:32] Rank = 1, Training Time used: 82.81 s 
+[INFO] [2018-07-17 22:36:32] Rank = 1, sampling throughput: 27804.199855 (tokens/thread/sec) 
+[INFO] [2018-07-17 22:36:56] doc likelihood : -2.298697e+08
+[INFO] [2018-07-17 22:36:56] Normalized likelihood : -1.728135e+09
+[INFO] [2018-07-17 22:36:56] word likelihood : 7.483766e+08
+[INFO] [2018-07-17 22:36:56] Rank = 1, Evaluation Time used: 24.06 s 
+[DEBUG] [2018-07-17 22:36:56] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:37:09] Rank = 1, Iter = 1, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:37:09] Rank = 1, Alias Time used: 0.65 s 
+[INFO] [2018-07-17 22:38:26] Rank = 1, Training Time used: 77.05 s 
+[INFO] [2018-07-17 22:38:26] Rank = 1, sampling throughput: 29881.400778 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:38:28] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:38:43] Rank = 1, Iter = 2, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:38:44] Rank = 1, Alias Time used: 0.65 s 
+[INFO] [2018-07-17 22:40:00] Rank = 1, Training Time used: 75.85 s 
+[INFO] [2018-07-17 22:40:00] Rank = 1, sampling throughput: 30361.834475 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:40:01] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:40:14] Rank = 1, Iter = 3, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:40:15] Rank = 1, Alias Time used: 0.65 s 
+[INFO] [2018-07-17 22:41:30] Rank = 1, Training Time used: 75.71 s 
+[INFO] [2018-07-17 22:41:30] Rank = 1, sampling throughput: 30413.940594 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:41:32] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:41:43] Rank = 1, Iter = 4, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:41:44] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 22:42:58] Rank = 1, Training Time used: 74.64 s 
+[INFO] [2018-07-17 22:42:59] Rank = 1, sampling throughput: 30837.317628 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:43:00] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:43:12] Rank = 1, Iter = 5, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:43:12] Rank = 1, Alias Time used: 0.64 s 
+[INFO] [2018-07-17 22:44:27] Rank = 1, Training Time used: 75.20 s 
+[INFO] [2018-07-17 22:44:27] Rank = 1, sampling throughput: 30611.958544 (tokens/thread/sec) 
+[INFO] [2018-07-17 22:44:50] doc likelihood : -1.657596e+08
+[INFO] [2018-07-17 22:44:51] Normalized likelihood : -1.728135e+09
+[INFO] [2018-07-17 22:44:51] word likelihood : 7.555752e+08
+[INFO] [2018-07-17 22:44:51] Rank = 1, Evaluation Time used: 23.17 s 
+[DEBUG] [2018-07-17 22:44:51] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:45:00] Rank = 1, Iter = 6, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:45:00] Rank = 1, Alias Time used: 0.53 s 
+[INFO] [2018-07-17 22:46:14] Rank = 1, Training Time used: 74.31 s 
+[INFO] [2018-07-17 22:46:14] Rank = 1, sampling throughput: 30986.630800 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:46:16] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:46:26] Rank = 1, Iter = 7, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:46:27] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-17 22:47:41] Rank = 1, Training Time used: 74.41 s 
+[INFO] [2018-07-17 22:47:41] Rank = 1, sampling throughput: 30940.854150 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:47:43] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:47:52] Rank = 1, Iter = 8, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:47:53] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 22:49:07] Rank = 1, Training Time used: 74.17 s 
+[INFO] [2018-07-17 22:49:07] Rank = 1, sampling throughput: 31040.905416 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:49:09] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:49:20] Rank = 1, Iter = 9, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:49:21] Rank = 1, Alias Time used: 0.65 s 
+[INFO] [2018-07-17 22:50:35] Rank = 1, Training Time used: 74.17 s 
+[INFO] [2018-07-17 22:50:35] Rank = 1, sampling throughput: 31049.272237 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:50:37] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:50:47] Rank = 1, Iter = 10, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:50:47] Rank = 1, Alias Time used: 0.54 s 
+[INFO] [2018-07-17 22:52:01] Rank = 1, Training Time used: 73.97 s 
+[INFO] [2018-07-17 22:52:01] Rank = 1, sampling throughput: 31124.777087 (tokens/thread/sec) 
+[INFO] [2018-07-17 22:52:24] doc likelihood : -1.555391e+08
+[INFO] [2018-07-17 22:52:24] Normalized likelihood : -1.728138e+09
+[INFO] [2018-07-17 22:52:24] word likelihood : 7.604510e+08
+[INFO] [2018-07-17 22:52:24] Rank = 1, Evaluation Time used: 23.05 s 
+[DEBUG] [2018-07-17 22:52:25] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:52:33] Rank = 1, Iter = 11, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:52:34] Rank = 1, Alias Time used: 0.53 s 
+[INFO] [2018-07-17 22:53:48] Rank = 1, Training Time used: 74.18 s 
+[INFO] [2018-07-17 22:53:48] Rank = 1, sampling throughput: 31028.363636 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:53:49] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:53:59] Rank = 1, Iter = 12, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:53:59] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 22:55:13] Rank = 1, Training Time used: 73.34 s 
+[INFO] [2018-07-17 22:55:13] Rank = 1, sampling throughput: 31396.238757 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:55:14] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:55:24] Rank = 1, Iter = 13, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:55:24] Rank = 1, Alias Time used: 0.53 s 
+[INFO] [2018-07-17 22:56:38] Rank = 1, Training Time used: 73.56 s 
+[INFO] [2018-07-17 22:56:38] Rank = 1, sampling throughput: 31285.388376 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:56:40] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:56:49] Rank = 1, Iter = 14, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:56:49] Rank = 1, Alias Time used: 0.56 s 
+[INFO] [2018-07-17 22:58:02] Rank = 1, Training Time used: 72.90 s 
+[INFO] [2018-07-17 22:58:02] Rank = 1, sampling throughput: 31589.962978 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 22:58:04] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:58:13] Rank = 1, Iter = 15, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:58:14] Rank = 1, Alias Time used: 0.66 s 
+[INFO] [2018-07-17 22:59:26] Rank = 1, Training Time used: 72.46 s 
+[INFO] [2018-07-17 22:59:27] Rank = 1, sampling throughput: 31742.298154 (tokens/thread/sec) 
+[INFO] [2018-07-17 22:59:49] doc likelihood : -1.361983e+08
+[INFO] [2018-07-17 22:59:49] Normalized likelihood : -1.728799e+09
+[INFO] [2018-07-17 22:59:49] word likelihood : 7.773526e+08
+[INFO] [2018-07-17 22:59:49] Rank = 1, Evaluation Time used: 22.80 s 
+[DEBUG] [2018-07-17 22:59:50] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 22:59:56] Rank = 1, Iter = 16, Block = 0, Slice = 0
+[INFO] [2018-07-17 22:59:57] Rank = 1, Alias Time used: 0.52 s 
+[INFO] [2018-07-17 23:01:08] Rank = 1, Training Time used: 71.46 s 
+[INFO] [2018-07-17 23:01:08] Rank = 1, sampling throughput: 32208.248287 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:01:10] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:01:18] Rank = 1, Iter = 17, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:01:18] Rank = 1, Alias Time used: 0.54 s 
+[INFO] [2018-07-17 23:02:29] Rank = 1, Training Time used: 71.03 s 
+[INFO] [2018-07-17 23:02:30] Rank = 1, sampling throughput: 32416.715914 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:02:31] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:02:38] Rank = 1, Iter = 18, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:02:39] Rank = 1, Alias Time used: 0.54 s 
+[INFO] [2018-07-17 23:03:49] Rank = 1, Training Time used: 69.89 s 
+[INFO] [2018-07-17 23:03:49] Rank = 1, sampling throughput: 32945.173745 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:03:50] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:03:58] Rank = 1, Iter = 19, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:03:59] Rank = 1, Alias Time used: 0.54 s 
+[INFO] [2018-07-17 23:05:08] Rank = 1, Training Time used: 69.83 s 
+[INFO] [2018-07-17 23:05:08] Rank = 1, sampling throughput: 32968.746422 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:05:10] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:05:17] Rank = 1, Iter = 20, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:05:18] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 23:06:27] Rank = 1, Training Time used: 69.08 s 
+[INFO] [2018-07-17 23:06:27] Rank = 1, sampling throughput: 33326.428468 (tokens/thread/sec) 
+[INFO] [2018-07-17 23:06:49] doc likelihood : -1.161532e+08
+[INFO] [2018-07-17 23:06:49] Normalized likelihood : -1.735368e+09
+[INFO] [2018-07-17 23:06:49] word likelihood : 8.293376e+08
+[INFO] [2018-07-17 23:06:49] Rank = 1, Evaluation Time used: 22.48 s 
+[DEBUG] [2018-07-17 23:06:50] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:06:55] Rank = 1, Iter = 21, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:06:55] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-17 23:08:04] Rank = 1, Training Time used: 68.51 s 
+[INFO] [2018-07-17 23:08:04] Rank = 1, sampling throughput: 33613.306099 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:08:05] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:08:12] Rank = 1, Iter = 22, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:08:12] Rank = 1, Alias Time used: 0.53 s 
+[INFO] [2018-07-17 23:09:20] Rank = 1, Training Time used: 68.08 s 
+[INFO] [2018-07-17 23:09:21] Rank = 1, sampling throughput: 33820.551967 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:09:22] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:09:29] Rank = 1, Iter = 23, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:09:29] Rank = 1, Alias Time used: 0.56 s 
+[INFO] [2018-07-17 23:10:37] Rank = 1, Training Time used: 68.12 s 
+[INFO] [2018-07-17 23:10:37] Rank = 1, sampling throughput: 33805.663977 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:10:39] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:10:45] Rank = 1, Iter = 24, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:10:45] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 23:11:52] Rank = 1, Training Time used: 67.18 s 
+[INFO] [2018-07-17 23:11:53] Rank = 1, sampling throughput: 34273.371021 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:11:54] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:12:00] Rank = 1, Iter = 25, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:12:00] Rank = 1, Alias Time used: 0.57 s 
+[INFO] [2018-07-17 23:13:07] Rank = 1, Training Time used: 67.16 s 
+[INFO] [2018-07-17 23:13:08] Rank = 1, sampling throughput: 34283.571429 (tokens/thread/sec) 
+[INFO] [2018-07-17 23:13:30] doc likelihood : -1.061675e+08
+[INFO] [2018-07-17 23:13:30] Normalized likelihood : -1.736802e+09
+[INFO] [2018-07-17 23:13:30] word likelihood : 8.662655e+08
+[INFO] [2018-07-17 23:13:30] Rank = 1, Evaluation Time used: 22.52 s 
+[DEBUG] [2018-07-17 23:13:30] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:13:34] Rank = 1, Iter = 26, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:13:34] Rank = 1, Alias Time used: 0.54 s 
+[INFO] [2018-07-17 23:14:41] Rank = 1, Training Time used: 66.61 s 
+[INFO] [2018-07-17 23:14:41] Rank = 1, sampling throughput: 34556.112194 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:14:42] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:14:48] Rank = 1, Iter = 27, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:14:48] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 23:15:55] Rank = 1, Training Time used: 66.75 s 
+[INFO] [2018-07-17 23:15:55] Rank = 1, sampling throughput: 34488.862275 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:15:56] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:16:02] Rank = 1, Iter = 28, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:16:02] Rank = 1, Alias Time used: 0.54 s 
+[INFO] [2018-07-17 23:17:08] Rank = 1, Training Time used: 65.93 s 
+[INFO] [2018-07-17 23:17:08] Rank = 1, sampling throughput: 34917.490149 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:17:09] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:17:15] Rank = 1, Iter = 29, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:17:15] Rank = 1, Alias Time used: 0.56 s 
+[INFO] [2018-07-17 23:18:21] Rank = 1, Training Time used: 65.95 s 
+[INFO] [2018-07-17 23:18:21] Rank = 1, sampling throughput: 34906.909091 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:18:22] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:18:27] Rank = 1, Iter = 30, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:18:28] Rank = 1, Alias Time used: 0.57 s 
+[INFO] [2018-07-17 23:19:34] Rank = 1, Training Time used: 66.08 s 
+[INFO] [2018-07-17 23:19:34] Rank = 1, sampling throughput: 34796.193928 (tokens/thread/sec) 
+[INFO] [2018-07-17 23:19:56] doc likelihood : -1.017852e+08
+[INFO] [2018-07-17 23:19:56] Normalized likelihood : -1.736172e+09
+[INFO] [2018-07-17 23:19:56] word likelihood : 8.933330e+08
+[INFO] [2018-07-17 23:19:56] Rank = 1, Evaluation Time used: 22.08 s 
+[DEBUG] [2018-07-17 23:19:56] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:19:59] Rank = 1, Iter = 31, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:19:59] Rank = 1, Alias Time used: 0.56 s 
+[INFO] [2018-07-17 23:21:05] Rank = 1, Training Time used: 65.89 s 
+[INFO] [2018-07-17 23:21:05] Rank = 1, sampling throughput: 34938.671520 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:21:07] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:21:11] Rank = 1, Iter = 32, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:21:12] Rank = 1, Alias Time used: 0.53 s 
+[INFO] [2018-07-17 23:22:17] Rank = 1, Training Time used: 65.37 s 
+[INFO] [2018-07-17 23:22:17] Rank = 1, sampling throughput: 35211.004127 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:22:18] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:22:23] Rank = 1, Iter = 33, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:22:24] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 23:23:29] Rank = 1, Training Time used: 65.14 s 
+[INFO] [2018-07-17 23:23:29] Rank = 1, sampling throughput: 35340.635067 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:23:30] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:23:34] Rank = 1, Iter = 34, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:23:35] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 23:24:40] Rank = 1, Training Time used: 64.85 s 
+[INFO] [2018-07-17 23:24:40] Rank = 1, sampling throughput: 35487.615527 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:24:41] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:24:45] Rank = 1, Iter = 35, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:24:45] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 23:25:51] Rank = 1, Training Time used: 65.88 s 
+[INFO] [2018-07-17 23:25:51] Rank = 1, sampling throughput: 34949.271845 (tokens/thread/sec) 
+[INFO] [2018-07-17 23:26:13] doc likelihood : -1.000668e+08
+[INFO] [2018-07-17 23:26:13] Normalized likelihood : -1.735538e+09
+[INFO] [2018-07-17 23:26:13] word likelihood : 9.125630e+08
+[INFO] [2018-07-17 23:26:13] Rank = 1, Evaluation Time used: 21.59 s 
+[DEBUG] [2018-07-17 23:26:13] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:26:15] Rank = 1, Iter = 36, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:26:16] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-17 23:27:21] Rank = 1, Training Time used: 64.91 s 
+[INFO] [2018-07-17 23:27:21] Rank = 1, sampling throughput: 35471.224018 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:27:22] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:27:27] Rank = 1, Iter = 37, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:27:27] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-17 23:28:32] Rank = 1, Training Time used: 64.90 s 
+[INFO] [2018-07-17 23:28:32] Rank = 1, sampling throughput: 35471.224018 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:28:33] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:28:37] Rank = 1, Iter = 38, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:28:37] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-17 23:29:42] Rank = 1, Training Time used: 64.35 s 
+[INFO] [2018-07-17 23:29:42] Rank = 1, sampling throughput: 35785.274930 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:29:43] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:29:47] Rank = 1, Iter = 39, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:29:48] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 23:30:52] Rank = 1, Training Time used: 64.55 s 
+[INFO] [2018-07-17 23:30:52] Rank = 1, sampling throughput: 35668.927078 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:30:54] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:30:57] Rank = 1, Iter = 40, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:30:57] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-17 23:32:02] Rank = 1, Training Time used: 64.50 s 
+[INFO] [2018-07-17 23:32:02] Rank = 1, sampling throughput: 35652.367688 (tokens/thread/sec) 
+[INFO] [2018-07-17 23:32:24] doc likelihood : -9.937269e+07
+[INFO] [2018-07-17 23:32:24] Normalized likelihood : -1.734913e+09
+[INFO] [2018-07-17 23:32:24] word likelihood : 9.262589e+08
+[INFO] [2018-07-17 23:32:24] Rank = 1, Evaluation Time used: 21.99 s 
+[DEBUG] [2018-07-17 23:32:24] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:32:26] Rank = 1, Iter = 41, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:32:27] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 23:33:31] Rank = 1, Training Time used: 64.62 s 
+[INFO] [2018-07-17 23:33:31] Rank = 1, sampling throughput: 35619.294991 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:33:33] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:33:36] Rank = 1, Iter = 42, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:33:37] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-17 23:34:41] Rank = 1, Training Time used: 63.87 s 
+[INFO] [2018-07-17 23:34:41] Rank = 1, sampling throughput: 36054.084507 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:34:42] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:34:45] Rank = 1, Iter = 43, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:34:46] Rank = 1, Alias Time used: 0.57 s 
+[INFO] [2018-07-17 23:35:50] Rank = 1, Training Time used: 63.81 s 
+[INFO] [2018-07-17 23:35:50] Rank = 1, sampling throughput: 36087.969925 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:35:51] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:35:54] Rank = 1, Iter = 44, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:35:55] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-17 23:36:58] Rank = 1, Training Time used: 63.74 s 
+[INFO] [2018-07-17 23:36:59] Rank = 1, sampling throughput: 36116.256467 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:37:00] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:37:03] Rank = 1, Iter = 45, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:37:03] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-17 23:38:08] Rank = 1, Training Time used: 64.00 s 
+[INFO] [2018-07-17 23:38:08] Rank = 1, sampling throughput: 35964.033718 (tokens/thread/sec) 
+[INFO] [2018-07-17 23:38:30] doc likelihood : -9.914016e+07
+[INFO] [2018-07-17 23:38:30] Normalized likelihood : -1.734411e+09
+[INFO] [2018-07-17 23:38:30] word likelihood : 9.367593e+08
+[INFO] [2018-07-17 23:38:30] Rank = 1, Evaluation Time used: 22.02 s 
+[DEBUG] [2018-07-17 23:38:30] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:38:32] Rank = 1, Iter = 46, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:38:32] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-17 23:39:36] Rank = 1, Training Time used: 63.29 s 
+[INFO] [2018-07-17 23:39:36] Rank = 1, sampling throughput: 36367.103394 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:39:37] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:39:40] Rank = 1, Iter = 47, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:39:41] Rank = 1, Alias Time used: 0.53 s 
+[INFO] [2018-07-17 23:40:44] Rank = 1, Training Time used: 63.63 s 
+[INFO] [2018-07-17 23:40:44] Rank = 1, sampling throughput: 36190.009425 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:40:46] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:40:48] Rank = 1, Iter = 48, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:40:48] Rank = 1, Alias Time used: 0.54 s 
+[INFO] [2018-07-17 23:41:52] Rank = 1, Training Time used: 63.16 s 
+[INFO] [2018-07-17 23:41:52] Rank = 1, sampling throughput: 36453.417722 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:41:53] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:41:56] Rank = 1, Iter = 49, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:41:56] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-17 23:43:00] Rank = 1, Training Time used: 63.86 s 
+[INFO] [2018-07-17 23:43:00] Rank = 1, sampling throughput: 36059.727657 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:43:02] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:43:04] Rank = 1, Iter = 50, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:43:04] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-17 23:44:08] Rank = 1, Training Time used: 63.36 s 
+[INFO] [2018-07-17 23:44:08] Rank = 1, sampling throughput: 36309.787234 (tokens/thread/sec) 
+[INFO] [2018-07-17 23:44:29] doc likelihood : -9.916893e+07
+[INFO] [2018-07-17 23:44:30] Normalized likelihood : -1.734051e+09
+[INFO] [2018-07-17 23:44:30] word likelihood : 9.451274e+08
+[INFO] [2018-07-17 23:44:30] Rank = 1, Evaluation Time used: 21.56 s 
+[DEBUG] [2018-07-17 23:44:30] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:44:32] Rank = 1, Iter = 51, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:44:33] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-17 23:45:36] Rank = 1, Training Time used: 63.60 s 
+[INFO] [2018-07-17 23:45:37] Rank = 1, sampling throughput: 36190.009425 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:45:38] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:45:41] Rank = 1, Iter = 52, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:45:41] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-17 23:46:44] Rank = 1, Training Time used: 62.71 s 
+[INFO] [2018-07-17 23:46:44] Rank = 1, sampling throughput: 36714.836653 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:46:45] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:46:48] Rank = 1, Iter = 53, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:46:48] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-17 23:47:52] Rank = 1, Training Time used: 63.39 s 
+[INFO] [2018-07-17 23:47:52] Rank = 1, sampling throughput: 36309.787234 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:47:53] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:47:56] Rank = 1, Iter = 54, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:47:56] Rank = 1, Alias Time used: 0.52 s 
+[INFO] [2018-07-17 23:48:59] Rank = 1, Training Time used: 63.16 s 
+[INFO] [2018-07-17 23:48:59] Rank = 1, sampling throughput: 36453.417722 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:49:01] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:49:03] Rank = 1, Iter = 55, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:49:04] Rank = 1, Alias Time used: 0.52 s 
+[INFO] [2018-07-17 23:50:07] Rank = 1, Training Time used: 63.44 s 
+[INFO] [2018-07-17 23:50:07] Rank = 1, sampling throughput: 36258.356941 (tokens/thread/sec) 
+[INFO] [2018-07-17 23:50:28] doc likelihood : -9.931248e+07
+[INFO] [2018-07-17 23:50:28] Normalized likelihood : -1.733813e+09
+[INFO] [2018-07-17 23:50:28] word likelihood : 9.514784e+08
+[INFO] [2018-07-17 23:50:28] Rank = 1, Evaluation Time used: 21.35 s 
+[DEBUG] [2018-07-17 23:50:29] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:50:31] Rank = 1, Iter = 56, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:50:32] Rank = 1, Alias Time used: 0.53 s 
+[INFO] [2018-07-17 23:51:35] Rank = 1, Training Time used: 63.09 s 
+[INFO] [2018-07-17 23:51:35] Rank = 1, sampling throughput: 36493.838112 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:51:36] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:51:39] Rank = 1, Iter = 57, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:51:39] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-17 23:52:42] Rank = 1, Training Time used: 63.25 s 
+[INFO] [2018-07-17 23:52:43] Rank = 1, sampling throughput: 36384.333544 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:52:44] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:52:46] Rank = 1, Iter = 58, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:52:47] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-17 23:53:49] Rank = 1, Training Time used: 62.74 s 
+[INFO] [2018-07-17 23:53:49] Rank = 1, sampling throughput: 36703.138442 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:53:51] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:53:53] Rank = 1, Iter = 59, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:53:53] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-17 23:54:57] Rank = 1, Training Time used: 63.22 s 
+[INFO] [2018-07-17 23:54:57] Rank = 1, sampling throughput: 36407.332491 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:54:58] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:55:00] Rank = 1, Iter = 60, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:55:01] Rank = 1, Alias Time used: 0.52 s 
+[INFO] [2018-07-17 23:56:04] Rank = 1, Training Time used: 63.30 s 
+[INFO] [2018-07-17 23:56:04] Rank = 1, sampling throughput: 36344.155230 (tokens/thread/sec) 
+[INFO] [2018-07-17 23:56:25] doc likelihood : -9.949080e+07
+[INFO] [2018-07-17 23:56:26] Normalized likelihood : -1.733620e+09
+[INFO] [2018-07-17 23:56:26] word likelihood : 9.565902e+08
+[INFO] [2018-07-17 23:56:26] Rank = 1, Evaluation Time used: 21.35 s 
+[DEBUG] [2018-07-17 23:56:26] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:56:28] Rank = 1, Iter = 61, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:56:28] Rank = 1, Alias Time used: 0.53 s 
+[INFO] [2018-07-17 23:57:32] Rank = 1, Training Time used: 63.25 s 
+[INFO] [2018-07-17 23:57:32] Rank = 1, sampling throughput: 36395.829384 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:57:33] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:57:35] Rank = 1, Iter = 62, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:57:36] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-17 23:58:39] Rank = 1, Training Time used: 62.69 s 
+[INFO] [2018-07-17 23:58:39] Rank = 1, sampling throughput: 36732.397959 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:58:40] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:58:42] Rank = 1, Iter = 63, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:58:43] Rank = 1, Alias Time used: 0.50 s 
+[INFO] [2018-07-17 23:59:46] Rank = 1, Training Time used: 62.98 s 
+[INFO] [2018-07-17 23:59:46] Rank = 1, sampling throughput: 36557.537290 (tokens/thread/sec) 
+[DEBUG] [2018-07-17 23:59:47] Request params. start = 1, end = 648730
+[INFO] [2018-07-17 23:59:49] Rank = 1, Iter = 64, Block = 0, Slice = 0
+[INFO] [2018-07-17 23:59:50] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 00:00:53] Rank = 1, Training Time used: 62.63 s 
+[INFO] [2018-07-18 00:00:53] Rank = 1, sampling throughput: 36761.704165 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:00:54] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:00:56] Rank = 1, Iter = 65, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:00:57] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 00:02:00] Rank = 1, Training Time used: 63.34 s 
+[INFO] [2018-07-18 00:02:00] Rank = 1, sampling throughput: 36349.889555 (tokens/thread/sec) 
+[INFO] [2018-07-18 00:02:21] doc likelihood : -9.970291e+07
+[INFO] [2018-07-18 00:02:21] Normalized likelihood : -1.733472e+09
+[INFO] [2018-07-18 00:02:21] word likelihood : 9.607650e+08
+[INFO] [2018-07-18 00:02:21] Rank = 1, Evaluation Time used: 21.45 s 
+[DEBUG] [2018-07-18 00:02:22] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:02:24] Rank = 1, Iter = 66, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:02:24] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 00:03:27] Rank = 1, Training Time used: 62.70 s 
+[INFO] [2018-07-18 00:03:27] Rank = 1, sampling throughput: 36703.138442 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:03:28] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:03:31] Rank = 1, Iter = 67, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:03:31] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-18 00:04:34] Rank = 1, Training Time used: 63.16 s 
+[INFO] [2018-07-18 00:04:34] Rank = 1, sampling throughput: 36453.417722 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:04:36] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:04:38] Rank = 1, Iter = 68, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:04:38] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-18 00:05:41] Rank = 1, Training Time used: 62.47 s 
+[INFO] [2018-07-18 00:05:41] Rank = 1, sampling throughput: 36855.799072 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:05:42] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:05:44] Rank = 1, Iter = 69, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:05:45] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 00:06:48] Rank = 1, Training Time used: 62.93 s 
+[INFO] [2018-07-18 00:06:48] Rank = 1, sampling throughput: 36569.142857 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:06:49] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:06:51] Rank = 1, Iter = 70, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:06:52] Rank = 1, Alias Time used: 0.52 s 
+[INFO] [2018-07-18 00:07:54] Rank = 1, Training Time used: 62.56 s 
+[INFO] [2018-07-18 00:07:54] Rank = 1, sampling throughput: 36761.704165 (tokens/thread/sec) 
+[INFO] [2018-07-18 00:08:16] doc likelihood : -9.995964e+07
+[INFO] [2018-07-18 00:08:16] Normalized likelihood : -1.733379e+09
+[INFO] [2018-07-18 00:08:16] word likelihood : 9.646678e+08
+[INFO] [2018-07-18 00:08:16] Rank = 1, Evaluation Time used: 21.45 s 
+[DEBUG] [2018-07-18 00:08:16] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:08:18] Rank = 1, Iter = 71, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:08:18] Rank = 1, Alias Time used: 0.52 s 
+[INFO] [2018-07-18 00:09:22] Rank = 1, Training Time used: 63.39 s 
+[INFO] [2018-07-18 00:09:22] Rank = 1, sampling throughput: 36315.510719 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:09:23] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:09:26] Rank = 1, Iter = 72, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:09:27] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 00:10:29] Rank = 1, Training Time used: 62.52 s 
+[INFO] [2018-07-18 00:10:29] Rank = 1, sampling throughput: 36826.342711 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:10:31] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:10:33] Rank = 1, Iter = 73, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:10:34] Rank = 1, Alias Time used: 0.55 s 
+[INFO] [2018-07-18 00:11:36] Rank = 1, Training Time used: 62.70 s 
+[INFO] [2018-07-18 00:11:36] Rank = 1, sampling throughput: 36726.542324 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:11:38] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:11:40] Rank = 1, Iter = 74, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:11:40] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 00:12:43] Rank = 1, Training Time used: 62.62 s 
+[INFO] [2018-07-18 00:12:43] Rank = 1, sampling throughput: 36761.704165 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:12:44] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:12:47] Rank = 1, Iter = 75, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:12:47] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 00:13:50] Rank = 1, Training Time used: 62.92 s 
+[INFO] [2018-07-18 00:13:50] Rank = 1, sampling throughput: 36563.339153 (tokens/thread/sec) 
+[INFO] [2018-07-18 00:14:12] doc likelihood : -1.001747e+08
+[INFO] [2018-07-18 00:14:12] Normalized likelihood : -1.733307e+09
+[INFO] [2018-07-18 00:14:12] word likelihood : 9.675029e+08
+[INFO] [2018-07-18 00:14:12] Rank = 1, Evaluation Time used: 21.40 s 
+[DEBUG] [2018-07-18 00:14:12] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:14:14] Rank = 1, Iter = 76, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:14:14] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 00:15:17] Rank = 1, Training Time used: 62.70 s 
+[INFO] [2018-07-18 00:15:17] Rank = 1, sampling throughput: 36720.688556 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:15:18] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:15:21] Rank = 1, Iter = 77, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:15:21] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 00:16:24] Rank = 1, Training Time used: 62.87 s 
+[INFO] [2018-07-18 00:16:24] Rank = 1, sampling throughput: 36609.820435 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:16:25] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:16:27] Rank = 1, Iter = 78, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:16:28] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 00:17:30] Rank = 1, Training Time used: 62.61 s 
+[INFO] [2018-07-18 00:17:30] Rank = 1, sampling throughput: 36755.839183 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:17:32] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:17:34] Rank = 1, Iter = 79, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:17:34] Rank = 1, Alias Time used: 0.54 s 
+[INFO] [2018-07-18 00:18:37] Rank = 1, Training Time used: 62.80 s 
+[INFO] [2018-07-18 00:18:37] Rank = 1, sampling throughput: 36662.253342 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:18:38] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:18:40] Rank = 1, Iter = 80, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:18:41] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 00:19:43] Rank = 1, Training Time used: 62.53 s 
+[INFO] [2018-07-18 00:19:43] Rank = 1, sampling throughput: 36802.811502 (tokens/thread/sec) 
+[INFO] [2018-07-18 00:20:05] doc likelihood : -1.004679e+08
+[INFO] [2018-07-18 00:20:05] Normalized likelihood : -1.733263e+09
+[INFO] [2018-07-18 00:20:05] word likelihood : 9.703952e+08
+[INFO] [2018-07-18 00:20:05] Rank = 1, Evaluation Time used: 21.46 s 
+[DEBUG] [2018-07-18 00:20:05] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:20:07] Rank = 1, Iter = 81, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:20:08] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-18 00:21:10] Rank = 1, Training Time used: 62.81 s 
+[INFO] [2018-07-18 00:21:10] Rank = 1, sampling throughput: 36650.588610 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:21:12] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:21:14] Rank = 1, Iter = 82, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:21:14] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 00:22:17] Rank = 1, Training Time used: 62.66 s 
+[INFO] [2018-07-18 00:22:17] Rank = 1, sampling throughput: 36732.397959 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:22:18] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:22:20] Rank = 1, Iter = 83, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:22:21] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 00:23:23] Rank = 1, Training Time used: 62.83 s 
+[INFO] [2018-07-18 00:23:24] Rank = 1, sampling throughput: 36650.588610 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:23:25] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:23:27] Rank = 1, Iter = 84, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:23:27] Rank = 1, Alias Time used: 0.54 s 
+[INFO] [2018-07-18 00:24:30] Rank = 1, Training Time used: 62.21 s 
+[INFO] [2018-07-18 00:24:30] Rank = 1, sampling throughput: 37009.734940 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:24:31] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:24:33] Rank = 1, Iter = 85, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:24:33] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 00:25:36] Rank = 1, Training Time used: 62.88 s 
+[INFO] [2018-07-18 00:25:36] Rank = 1, sampling throughput: 36592.376112 (tokens/thread/sec) 
+[INFO] [2018-07-18 00:25:58] doc likelihood : -1.006789e+08
+[INFO] [2018-07-18 00:25:58] Normalized likelihood : -1.733242e+09
+[INFO] [2018-07-18 00:25:58] word likelihood : 9.726976e+08
+[INFO] [2018-07-18 00:25:58] Rank = 1, Evaluation Time used: 21.25 s 
+[DEBUG] [2018-07-18 00:25:58] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:26:00] Rank = 1, Iter = 86, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:26:01] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-18 00:27:03] Rank = 1, Training Time used: 62.41 s 
+[INFO] [2018-07-18 00:27:03] Rank = 1, sampling throughput: 36885.302594 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:27:04] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:27:07] Rank = 1, Iter = 87, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:27:07] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 00:28:10] Rank = 1, Training Time used: 62.82 s 
+[INFO] [2018-07-18 00:28:10] Rank = 1, sampling throughput: 36633.105422 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:28:11] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:28:13] Rank = 1, Iter = 88, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:28:14] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 00:29:16] Rank = 1, Training Time used: 62.52 s 
+[INFO] [2018-07-18 00:29:16] Rank = 1, sampling throughput: 36826.342711 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:29:18] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:29:20] Rank = 1, Iter = 89, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:29:20] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 00:30:23] Rank = 1, Training Time used: 62.69 s 
+[INFO] [2018-07-18 00:30:23] Rank = 1, sampling throughput: 36720.688556 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:30:24] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:30:26] Rank = 1, Iter = 90, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:30:27] Rank = 1, Alias Time used: 0.40 s 
+[INFO] [2018-07-18 00:31:29] Rank = 1, Training Time used: 62.80 s 
+[INFO] [2018-07-18 00:31:29] Rank = 1, sampling throughput: 36650.588610 (tokens/thread/sec) 
+[INFO] [2018-07-18 00:31:50] doc likelihood : -1.009284e+08
+[INFO] [2018-07-18 00:31:50] Normalized likelihood : -1.733244e+09
+[INFO] [2018-07-18 00:31:50] word likelihood : 9.747484e+08
+[INFO] [2018-07-18 00:31:50] Rank = 1, Evaluation Time used: 20.89 s 
+[DEBUG] [2018-07-18 00:31:51] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:31:53] Rank = 1, Iter = 91, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:31:53] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 00:32:56] Rank = 1, Training Time used: 62.73 s 
+[INFO] [2018-07-18 00:32:56] Rank = 1, sampling throughput: 36708.986616 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:32:57] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:32:59] Rank = 1, Iter = 92, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:33:00] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 00:34:02] Rank = 1, Training Time used: 62.41 s 
+[INFO] [2018-07-18 00:34:02] Rank = 1, sampling throughput: 36885.302594 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:34:03] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:34:05] Rank = 1, Iter = 93, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:34:06] Rank = 1, Alias Time used: 0.40 s 
+[INFO] [2018-07-18 00:35:08] Rank = 1, Training Time used: 62.61 s 
+[INFO] [2018-07-18 00:35:08] Rank = 1, sampling throughput: 36767.571018 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:35:10] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:35:12] Rank = 1, Iter = 94, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:35:12] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 00:36:14] Rank = 1, Training Time used: 62.28 s 
+[INFO] [2018-07-18 00:36:14] Rank = 1, sampling throughput: 36968.164313 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:36:16] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:36:18] Rank = 1, Iter = 95, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:36:18] Rank = 1, Alias Time used: 0.54 s 
+[INFO] [2018-07-18 00:37:21] Rank = 1, Training Time used: 62.71 s 
+[INFO] [2018-07-18 00:37:21] Rank = 1, sampling throughput: 36708.986616 (tokens/thread/sec) 
+[INFO] [2018-07-18 00:37:42] doc likelihood : -1.011018e+08
+[INFO] [2018-07-18 00:37:42] Normalized likelihood : -1.733244e+09
+[INFO] [2018-07-18 00:37:42] word likelihood : 9.765098e+08
+[INFO] [2018-07-18 00:37:42] Rank = 1, Evaluation Time used: 21.35 s 
+[DEBUG] [2018-07-18 00:37:43] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:37:45] Rank = 1, Iter = 96, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:37:45] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 00:38:47] Rank = 1, Training Time used: 62.31 s 
+[INFO] [2018-07-18 00:38:47] Rank = 1, sampling throughput: 36950.376905 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:38:49] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:38:51] Rank = 1, Iter = 97, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:38:51] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-18 00:39:54] Rank = 1, Training Time used: 62.58 s 
+[INFO] [2018-07-18 00:39:54] Rank = 1, sampling throughput: 36785.182820 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:39:55] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:39:57] Rank = 1, Iter = 98, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:39:58] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-18 00:41:00] Rank = 1, Training Time used: 62.28 s 
+[INFO] [2018-07-18 00:41:00] Rank = 1, sampling throughput: 36968.164313 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:41:01] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:41:04] Rank = 1, Iter = 99, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:41:04] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 00:42:07] Rank = 1, Training Time used: 62.51 s 
+[INFO] [2018-07-18 00:42:07] Rank = 1, sampling throughput: 36820.457088 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:42:08] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:42:10] Rank = 1, Iter = 100, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:42:11] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-18 00:43:13] Rank = 1, Training Time used: 61.90 s 
+[INFO] [2018-07-18 00:43:13] Rank = 1, sampling throughput: 37135.009671 (tokens/thread/sec) 
+[INFO] [2018-07-18 00:43:34] doc likelihood : -1.013448e+08
+[INFO] [2018-07-18 00:43:34] Normalized likelihood : -1.733256e+09
+[INFO] [2018-07-18 00:43:34] word likelihood : 9.780597e+08
+[INFO] [2018-07-18 00:43:34] Rank = 1, Evaluation Time used: 21.29 s 
+[DEBUG] [2018-07-18 00:43:34] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:43:36] Rank = 1, Iter = 101, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:43:37] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-18 00:44:39] Rank = 1, Training Time used: 62.47 s 
+[INFO] [2018-07-18 00:44:39] Rank = 1, sampling throughput: 36844.010875 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:44:41] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:44:43] Rank = 1, Iter = 102, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:44:43] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-18 00:45:46] Rank = 1, Training Time used: 62.43 s 
+[INFO] [2018-07-18 00:45:46] Rank = 1, sampling throughput: 36867.594815 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:45:47] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:45:49] Rank = 1, Iter = 103, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:45:49] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 00:46:53] Rank = 1, Training Time used: 63.50 s 
+[INFO] [2018-07-18 00:46:53] Rank = 1, sampling throughput: 36269.773300 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:46:54] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:46:56] Rank = 1, Iter = 104, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:46:56] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 00:47:58] Rank = 1, Training Time used: 62.47 s 
+[INFO] [2018-07-18 00:47:59] Rank = 1, sampling throughput: 36849.904031 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:48:00] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:48:02] Rank = 1, Iter = 105, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:48:02] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 00:49:05] Rank = 1, Training Time used: 62.60 s 
+[INFO] [2018-07-18 00:49:05] Rank = 1, sampling throughput: 36767.571018 (tokens/thread/sec) 
+[INFO] [2018-07-18 00:49:26] doc likelihood : -1.015081e+08
+[INFO] [2018-07-18 00:49:26] Normalized likelihood : -1.733268e+09
+[INFO] [2018-07-18 00:49:26] word likelihood : 9.795492e+08
+[INFO] [2018-07-18 00:49:26] Rank = 1, Evaluation Time used: 21.21 s 
+[DEBUG] [2018-07-18 00:49:26] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:49:32] Rank = 1, Iter = 106, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:49:33] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 00:50:35] Rank = 1, Training Time used: 62.10 s 
+[INFO] [2018-07-18 00:50:35] Rank = 1, sampling throughput: 37069.283990 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:50:36] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:50:38] Rank = 1, Iter = 107, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:50:38] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 00:51:41] Rank = 1, Training Time used: 62.48 s 
+[INFO] [2018-07-18 00:51:41] Rank = 1, sampling throughput: 36849.904031 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:51:42] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:51:44] Rank = 1, Iter = 108, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:51:44] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 00:52:47] Rank = 1, Training Time used: 62.39 s 
+[INFO] [2018-07-18 00:52:47] Rank = 1, sampling throughput: 36903.027391 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:52:48] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:52:50] Rank = 1, Iter = 109, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:52:50] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 00:53:53] Rank = 1, Training Time used: 62.63 s 
+[INFO] [2018-07-18 00:53:53] Rank = 1, sampling throughput: 36755.839183 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:53:54] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:53:56] Rank = 1, Iter = 110, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:53:57] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-18 00:54:59] Rank = 1, Training Time used: 62.33 s 
+[INFO] [2018-07-18 00:54:59] Rank = 1, sampling throughput: 36932.606605 (tokens/thread/sec) 
+[INFO] [2018-07-18 00:55:20] doc likelihood : -1.016547e+08
+[INFO] [2018-07-18 00:55:20] Normalized likelihood : -1.733293e+09
+[INFO] [2018-07-18 00:55:20] word likelihood : 9.806908e+08
+[INFO] [2018-07-18 00:55:20] Rank = 1, Evaluation Time used: 21.48 s 
+[DEBUG] [2018-07-18 00:55:21] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:55:26] Rank = 1, Iter = 111, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:55:27] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 00:56:29] Rank = 1, Training Time used: 62.61 s 
+[INFO] [2018-07-18 00:56:29] Rank = 1, sampling throughput: 36773.439745 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:56:31] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:56:32] Rank = 1, Iter = 112, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:56:33] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 00:57:35] Rank = 1, Training Time used: 62.18 s 
+[INFO] [2018-07-18 00:57:35] Rank = 1, sampling throughput: 37015.681234 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:57:36] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:57:38] Rank = 1, Iter = 113, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:57:39] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 00:58:41] Rank = 1, Training Time used: 62.58 s 
+[INFO] [2018-07-18 00:58:41] Rank = 1, sampling throughput: 36767.571018 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:58:43] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:58:44] Rank = 1, Iter = 114, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:58:45] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 00:59:47] Rank = 1, Training Time used: 62.43 s 
+[INFO] [2018-07-18 00:59:47] Rank = 1, sampling throughput: 36873.495519 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 00:59:49] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 00:59:50] Rank = 1, Iter = 115, Block = 0, Slice = 0
+[INFO] [2018-07-18 00:59:51] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 01:00:53] Rank = 1, Training Time used: 62.53 s 
+[INFO] [2018-07-18 01:00:53] Rank = 1, sampling throughput: 36808.691484 (tokens/thread/sec) 
+[INFO] [2018-07-18 01:01:15] doc likelihood : -1.018848e+08
+[INFO] [2018-07-18 01:01:15] Normalized likelihood : -1.733317e+09
+[INFO] [2018-07-18 01:01:15] word likelihood : 9.821800e+08
+[INFO] [2018-07-18 01:01:15] Rank = 1, Evaluation Time used: 21.41 s 
+[DEBUG] [2018-07-18 01:01:15] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:01:21] Rank = 1, Iter = 116, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:01:21] Rank = 1, Alias Time used: 0.49 s 
+[INFO] [2018-07-18 01:02:23] Rank = 1, Training Time used: 62.05 s 
+[INFO] [2018-07-18 01:02:23] Rank = 1, sampling throughput: 37105.105492 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:02:25] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:02:26] Rank = 1, Iter = 117, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:02:27] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-18 01:03:29] Rank = 1, Training Time used: 62.48 s 
+[INFO] [2018-07-18 01:03:29] Rank = 1, sampling throughput: 36838.119603 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:03:31] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:03:32] Rank = 1, Iter = 118, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:03:33] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 01:04:35] Rank = 1, Training Time used: 62.26 s 
+[INFO] [2018-07-18 01:04:35] Rank = 1, sampling throughput: 36985.968855 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:04:36] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:04:38] Rank = 1, Iter = 119, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:04:39] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-18 01:05:41] Rank = 1, Training Time used: 62.49 s 
+[INFO] [2018-07-18 01:05:41] Rank = 1, sampling throughput: 36838.119603 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:05:42] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:05:44] Rank = 1, Iter = 120, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:05:45] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 01:06:47] Rank = 1, Training Time used: 62.17 s 
+[INFO] [2018-07-18 01:06:47] Rank = 1, sampling throughput: 36985.968855 (tokens/thread/sec) 
+[INFO] [2018-07-18 01:07:08] doc likelihood : -1.019797e+08
+[INFO] [2018-07-18 01:07:08] Normalized likelihood : -1.733343e+09
+[INFO] [2018-07-18 01:07:08] word likelihood : 9.828650e+08
+[INFO] [2018-07-18 01:07:08] Rank = 1, Evaluation Time used: 21.47 s 
+[DEBUG] [2018-07-18 01:07:09] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:07:10] Rank = 1, Iter = 121, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:07:11] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 01:08:13] Rank = 1, Training Time used: 62.47 s 
+[INFO] [2018-07-18 01:08:13] Rank = 1, sampling throughput: 36844.010875 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:08:15] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:08:17] Rank = 1, Iter = 122, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:08:18] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-18 01:09:20] Rank = 1, Training Time used: 62.06 s 
+[INFO] [2018-07-18 01:09:20] Rank = 1, sampling throughput: 37105.105492 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:09:21] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:09:23] Rank = 1, Iter = 123, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:09:24] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 01:10:26] Rank = 1, Training Time used: 62.43 s 
+[INFO] [2018-07-18 01:10:26] Rank = 1, sampling throughput: 36873.495519 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:10:27] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:10:30] Rank = 1, Iter = 124, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:10:30] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 01:11:32] Rank = 1, Training Time used: 62.29 s 
+[INFO] [2018-07-18 01:11:32] Rank = 1, sampling throughput: 36956.304139 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:11:34] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:11:36] Rank = 1, Iter = 125, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:11:36] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 01:12:39] Rank = 1, Training Time used: 62.53 s 
+[INFO] [2018-07-18 01:12:39] Rank = 1, sampling throughput: 36814.573346 (tokens/thread/sec) 
+[INFO] [2018-07-18 01:13:00] doc likelihood : -1.021656e+08
+[INFO] [2018-07-18 01:13:00] Normalized likelihood : -1.733375e+09
+[INFO] [2018-07-18 01:13:00] word likelihood : 9.839157e+08
+[INFO] [2018-07-18 01:13:00] Rank = 1, Evaluation Time used: 21.34 s 
+[DEBUG] [2018-07-18 01:13:01] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:13:03] Rank = 1, Iter = 126, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:13:03] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 01:14:05] Rank = 1, Training Time used: 62.00 s 
+[INFO] [2018-07-18 01:14:05] Rank = 1, sampling throughput: 37117.061382 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:14:07] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:14:08] Rank = 1, Iter = 127, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:14:09] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 01:15:11] Rank = 1, Training Time used: 62.16 s 
+[INFO] [2018-07-18 01:15:11] Rank = 1, sampling throughput: 37027.579556 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:15:12] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:15:14] Rank = 1, Iter = 128, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:15:15] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 01:16:17] Rank = 1, Training Time used: 62.17 s 
+[INFO] [2018-07-18 01:16:17] Rank = 1, sampling throughput: 37027.579556 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:16:18] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:16:20] Rank = 1, Iter = 129, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:16:21] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 01:17:23] Rank = 1, Training Time used: 62.44 s 
+[INFO] [2018-07-18 01:17:23] Rank = 1, sampling throughput: 36873.495519 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:17:25] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:17:27] Rank = 1, Iter = 130, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:17:27] Rank = 1, Alias Time used: 0.50 s 
+[INFO] [2018-07-18 01:18:30] Rank = 1, Training Time used: 62.10 s 
+[INFO] [2018-07-18 01:18:30] Rank = 1, sampling throughput: 37051.399164 (tokens/thread/sec) 
+[INFO] [2018-07-18 01:18:51] doc likelihood : -1.022940e+08
+[INFO] [2018-07-18 01:18:51] Normalized likelihood : -1.733403e+09
+[INFO] [2018-07-18 01:18:51] word likelihood : 9.847023e+08
+[INFO] [2018-07-18 01:18:51] Rank = 1, Evaluation Time used: 21.42 s 
+[DEBUG] [2018-07-18 01:18:51] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:18:53] Rank = 1, Iter = 131, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:18:54] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 01:19:56] Rank = 1, Training Time used: 62.35 s 
+[INFO] [2018-07-18 01:19:56] Rank = 1, sampling throughput: 36914.853389 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:19:57] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:20:00] Rank = 1, Iter = 132, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:20:00] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 01:21:02] Rank = 1, Training Time used: 61.96 s 
+[INFO] [2018-07-18 01:21:02] Rank = 1, sampling throughput: 37164.962091 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:21:03] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:21:05] Rank = 1, Iter = 133, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:21:06] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 01:22:08] Rank = 1, Training Time used: 62.30 s 
+[INFO] [2018-07-18 01:22:08] Rank = 1, sampling throughput: 36956.304139 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:22:09] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:22:14] Rank = 1, Iter = 134, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:22:15] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-18 01:23:17] Rank = 1, Training Time used: 62.15 s 
+[INFO] [2018-07-18 01:23:17] Rank = 1, sampling throughput: 37051.399164 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:23:18] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:23:20] Rank = 1, Iter = 135, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:23:20] Rank = 1, Alias Time used: 0.40 s 
+[INFO] [2018-07-18 01:24:23] Rank = 1, Training Time used: 62.50 s 
+[INFO] [2018-07-18 01:24:23] Rank = 1, sampling throughput: 36814.573346 (tokens/thread/sec) 
+[INFO] [2018-07-18 01:24:44] doc likelihood : -1.024013e+08
+[INFO] [2018-07-18 01:24:44] Normalized likelihood : -1.733424e+09
+[INFO] [2018-07-18 01:24:44] word likelihood : 9.854291e+08
+[INFO] [2018-07-18 01:24:44] Rank = 1, Evaluation Time used: 21.35 s 
+[DEBUG] [2018-07-18 01:24:45] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:24:50] Rank = 1, Iter = 136, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:24:50] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 01:25:52] Rank = 1, Training Time used: 62.32 s 
+[INFO] [2018-07-18 01:25:53] Rank = 1, sampling throughput: 36950.376905 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:25:54] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:25:55] Rank = 1, Iter = 137, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:25:56] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-18 01:26:58] Rank = 1, Training Time used: 62.19 s 
+[INFO] [2018-07-18 01:26:58] Rank = 1, sampling throughput: 37027.579556 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:26:59] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:27:01] Rank = 1, Iter = 138, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:27:02] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 01:28:04] Rank = 1, Training Time used: 62.03 s 
+[INFO] [2018-07-18 01:28:04] Rank = 1, sampling throughput: 37117.061382 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:28:05] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:28:07] Rank = 1, Iter = 139, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:28:07] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-18 01:29:10] Rank = 1, Training Time used: 62.46 s 
+[INFO] [2018-07-18 01:29:10] Rank = 1, sampling throughput: 36861.696000 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:29:11] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:29:13] Rank = 1, Iter = 140, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:29:13] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 01:30:16] Rank = 1, Training Time used: 62.44 s 
+[INFO] [2018-07-18 01:30:16] Rank = 1, sampling throughput: 36844.010875 (tokens/thread/sec) 
+[INFO] [2018-07-18 01:30:37] doc likelihood : -1.024573e+08
+[INFO] [2018-07-18 01:30:37] Normalized likelihood : -1.733448e+09
+[INFO] [2018-07-18 01:30:37] word likelihood : 9.857595e+08
+[INFO] [2018-07-18 01:30:37] Rank = 1, Evaluation Time used: 21.48 s 
+[DEBUG] [2018-07-18 01:30:38] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:30:40] Rank = 1, Iter = 141, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:30:40] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-18 01:31:43] Rank = 1, Training Time used: 62.69 s 
+[INFO] [2018-07-18 01:31:43] Rank = 1, sampling throughput: 36714.836653 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:31:44] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:31:46] Rank = 1, Iter = 142, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:31:47] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 01:32:49] Rank = 1, Training Time used: 62.19 s 
+[INFO] [2018-07-18 01:32:49] Rank = 1, sampling throughput: 37015.681234 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:32:50] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:32:56] Rank = 1, Iter = 143, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:32:56] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 01:33:59] Rank = 1, Training Time used: 62.31 s 
+[INFO] [2018-07-18 01:33:59] Rank = 1, sampling throughput: 36938.528139 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:34:00] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:34:08] Rank = 1, Iter = 144, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:34:08] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-18 01:35:10] Rank = 1, Training Time used: 62.06 s 
+[INFO] [2018-07-18 01:35:10] Rank = 1, sampling throughput: 37093.157302 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:35:12] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:35:13] Rank = 1, Iter = 145, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:35:14] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 01:36:17] Rank = 1, Training Time used: 62.70 s 
+[INFO] [2018-07-18 01:36:17] Rank = 1, sampling throughput: 36685.605096 (tokens/thread/sec) 
+[INFO] [2018-07-18 01:36:38] doc likelihood : -1.025615e+08
+[INFO] [2018-07-18 01:36:38] Normalized likelihood : -1.733479e+09
+[INFO] [2018-07-18 01:36:38] word likelihood : 9.864727e+08
+[INFO] [2018-07-18 01:36:38] Rank = 1, Evaluation Time used: 21.26 s 
+[DEBUG] [2018-07-18 01:36:38] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:36:42] Rank = 1, Iter = 146, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:36:42] Rank = 1, Alias Time used: 0.51 s 
+[INFO] [2018-07-18 01:37:44] Rank = 1, Training Time used: 62.37 s 
+[INFO] [2018-07-18 01:37:44] Rank = 1, sampling throughput: 36920.769231 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:37:46] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:37:48] Rank = 1, Iter = 147, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:37:48] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 01:38:51] Rank = 1, Training Time used: 62.54 s 
+[INFO] [2018-07-18 01:38:51] Rank = 1, sampling throughput: 36820.457088 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:38:52] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:38:57] Rank = 1, Iter = 148, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:38:57] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 01:39:59] Rank = 1, Training Time used: 62.04 s 
+[INFO] [2018-07-18 01:39:59] Rank = 1, sampling throughput: 37099.130435 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:40:01] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:40:02] Rank = 1, Iter = 149, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:40:03] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 01:41:05] Rank = 1, Training Time used: 62.49 s 
+[INFO] [2018-07-18 01:41:05] Rank = 1, sampling throughput: 36844.010875 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:41:06] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:41:08] Rank = 1, Iter = 150, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:41:08] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 01:42:11] Rank = 1, Training Time used: 62.41 s 
+[INFO] [2018-07-18 01:42:11] Rank = 1, sampling throughput: 36844.010875 (tokens/thread/sec) 
+[INFO] [2018-07-18 01:42:32] doc likelihood : -1.026404e+08
+[INFO] [2018-07-18 01:42:32] Normalized likelihood : -1.733509e+09
+[INFO] [2018-07-18 01:42:32] word likelihood : 9.870027e+08
+[INFO] [2018-07-18 01:42:32] Rank = 1, Evaluation Time used: 21.43 s 
+[DEBUG] [2018-07-18 01:42:33] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:42:38] Rank = 1, Iter = 151, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:42:38] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 01:43:41] Rank = 1, Training Time used: 62.52 s 
+[INFO] [2018-07-18 01:43:41] Rank = 1, sampling throughput: 36820.457088 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:43:42] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:43:43] Rank = 1, Iter = 152, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:43:44] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 01:44:46] Rank = 1, Training Time used: 62.10 s 
+[INFO] [2018-07-18 01:44:46] Rank = 1, sampling throughput: 37057.358855 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:44:47] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:44:49] Rank = 1, Iter = 153, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:44:50] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-18 01:45:52] Rank = 1, Training Time used: 62.12 s 
+[INFO] [2018-07-18 01:45:52] Rank = 1, sampling throughput: 37075.249437 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:45:53] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:45:58] Rank = 1, Iter = 154, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:45:59] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 01:47:01] Rank = 1, Training Time used: 62.19 s 
+[INFO] [2018-07-18 01:47:01] Rank = 1, sampling throughput: 37003.790556 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:47:02] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:47:10] Rank = 1, Iter = 155, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:47:10] Rank = 1, Alias Time used: 0.39 s 
+[INFO] [2018-07-18 01:48:13] Rank = 1, Training Time used: 62.70 s 
+[INFO] [2018-07-18 01:48:13] Rank = 1, sampling throughput: 36691.447683 (tokens/thread/sec) 
+[INFO] [2018-07-18 01:48:34] doc likelihood : -1.027532e+08
+[INFO] [2018-07-18 01:48:34] Normalized likelihood : -1.733533e+09
+[INFO] [2018-07-18 01:48:34] word likelihood : 9.875189e+08
+[INFO] [2018-07-18 01:48:34] Rank = 1, Evaluation Time used: 21.36 s 
+[DEBUG] [2018-07-18 01:48:35] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:48:42] Rank = 1, Iter = 156, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:48:42] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-18 01:49:45] Rank = 1, Training Time used: 62.20 s 
+[INFO] [2018-07-18 01:49:45] Rank = 1, sampling throughput: 37021.629439 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:49:46] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:49:48] Rank = 1, Iter = 157, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:49:48] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 01:50:51] Rank = 1, Training Time used: 62.54 s 
+[INFO] [2018-07-18 01:50:51] Rank = 1, sampling throughput: 36820.457088 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:50:52] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:50:54] Rank = 1, Iter = 158, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:50:54] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 01:51:56] Rank = 1, Training Time used: 62.09 s 
+[INFO] [2018-07-18 01:51:56] Rank = 1, sampling throughput: 37081.216803 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:51:58] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:52:00] Rank = 1, Iter = 159, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:52:01] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-18 01:53:03] Rank = 1, Training Time used: 62.27 s 
+[INFO] [2018-07-18 01:53:03] Rank = 1, sampling throughput: 36980.032103 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:53:04] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:53:06] Rank = 1, Iter = 160, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:53:07] Rank = 1, Alias Time used: 0.39 s 
+[INFO] [2018-07-18 01:54:09] Rank = 1, Training Time used: 62.39 s 
+[INFO] [2018-07-18 01:54:09] Rank = 1, sampling throughput: 36873.495519 (tokens/thread/sec) 
+[INFO] [2018-07-18 01:54:30] doc likelihood : -1.028037e+08
+[INFO] [2018-07-18 01:54:30] Normalized likelihood : -1.733555e+09
+[INFO] [2018-07-18 01:54:30] word likelihood : 9.879634e+08
+[INFO] [2018-07-18 01:54:30] Rank = 1, Evaluation Time used: 21.11 s 
+[DEBUG] [2018-07-18 01:54:31] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:54:34] Rank = 1, Iter = 161, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:54:35] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 01:55:37] Rank = 1, Training Time used: 62.51 s 
+[INFO] [2018-07-18 01:55:37] Rank = 1, sampling throughput: 36820.457088 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:55:39] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:55:46] Rank = 1, Iter = 162, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:55:47] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 01:56:49] Rank = 1, Training Time used: 62.05 s 
+[INFO] [2018-07-18 01:56:49] Rank = 1, sampling throughput: 37099.130435 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:56:50] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:56:58] Rank = 1, Iter = 163, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:56:59] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 01:58:01] Rank = 1, Training Time used: 62.51 s 
+[INFO] [2018-07-18 01:58:01] Rank = 1, sampling throughput: 36826.342711 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:58:03] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:58:04] Rank = 1, Iter = 164, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:58:04] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 01:59:06] Rank = 1, Training Time used: 61.72 s 
+[INFO] [2018-07-18 01:59:06] Rank = 1, sampling throughput: 37309.408907 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 01:59:08] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 01:59:10] Rank = 1, Iter = 165, Block = 0, Slice = 0
+[INFO] [2018-07-18 01:59:10] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 02:00:12] Rank = 1, Training Time used: 62.37 s 
+[INFO] [2018-07-18 02:00:12] Rank = 1, sampling throughput: 36903.027391 (tokens/thread/sec) 
+[INFO] [2018-07-18 02:00:34] doc likelihood : -1.028627e+08
+[INFO] [2018-07-18 02:00:34] Normalized likelihood : -1.733569e+09
+[INFO] [2018-07-18 02:00:34] word likelihood : 9.883895e+08
+[INFO] [2018-07-18 02:00:34] Rank = 1, Evaluation Time used: 21.45 s 
+[DEBUG] [2018-07-18 02:00:34] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:00:37] Rank = 1, Iter = 166, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:00:37] Rank = 1, Alias Time used: 0.46 s 
+[INFO] [2018-07-18 02:01:39] Rank = 1, Training Time used: 62.12 s 
+[INFO] [2018-07-18 02:01:39] Rank = 1, sampling throughput: 37051.399164 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:01:41] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:01:49] Rank = 1, Iter = 167, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:01:49] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 02:02:51] Rank = 1, Training Time used: 62.37 s 
+[INFO] [2018-07-18 02:02:51] Rank = 1, sampling throughput: 36891.208967 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:02:53] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:02:54] Rank = 1, Iter = 168, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:02:55] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 02:03:57] Rank = 1, Training Time used: 62.09 s 
+[INFO] [2018-07-18 02:03:57] Rank = 1, sampling throughput: 37063.320463 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:03:58] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:04:00] Rank = 1, Iter = 169, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:04:01] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 02:05:03] Rank = 1, Training Time used: 62.09 s 
+[INFO] [2018-07-18 02:05:03] Rank = 1, sampling throughput: 37087.186091 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:05:04] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:05:06] Rank = 1, Iter = 170, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:05:06] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 02:06:08] Rank = 1, Training Time used: 62.00 s 
+[INFO] [2018-07-18 02:06:08] Rank = 1, sampling throughput: 37105.105492 (tokens/thread/sec) 
+[INFO] [2018-07-18 02:06:30] doc likelihood : -1.029624e+08
+[INFO] [2018-07-18 02:06:30] Normalized likelihood : -1.733595e+09
+[INFO] [2018-07-18 02:06:30] word likelihood : 9.886335e+08
+[INFO] [2018-07-18 02:06:30] Rank = 1, Evaluation Time used: 21.29 s 
+[DEBUG] [2018-07-18 02:06:30] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:06:32] Rank = 1, Iter = 171, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:06:32] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 02:07:35] Rank = 1, Training Time used: 62.29 s 
+[INFO] [2018-07-18 02:07:35] Rank = 1, sampling throughput: 36962.233275 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:07:36] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:07:38] Rank = 1, Iter = 172, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:07:38] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 02:08:40] Rank = 1, Training Time used: 62.12 s 
+[INFO] [2018-07-18 02:08:40] Rank = 1, sampling throughput: 37057.358855 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:08:42] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:08:44] Rank = 1, Iter = 173, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:08:44] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 02:09:46] Rank = 1, Training Time used: 62.28 s 
+[INFO] [2018-07-18 02:09:46] Rank = 1, sampling throughput: 36956.304139 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:09:48] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:09:50] Rank = 1, Iter = 174, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:09:50] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 02:10:52] Rank = 1, Training Time used: 61.93 s 
+[INFO] [2018-07-18 02:10:52] Rank = 1, sampling throughput: 37170.958374 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:10:53] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:10:56] Rank = 1, Iter = 175, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:10:56] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 02:11:58] Rank = 1, Training Time used: 62.18 s 
+[INFO] [2018-07-18 02:11:59] Rank = 1, sampling throughput: 37003.790556 (tokens/thread/sec) 
+[INFO] [2018-07-18 02:12:20] doc likelihood : -1.030044e+08
+[INFO] [2018-07-18 02:12:20] Normalized likelihood : -1.733616e+09
+[INFO] [2018-07-18 02:12:20] word likelihood : 9.891378e+08
+[INFO] [2018-07-18 02:12:20] Rank = 1, Evaluation Time used: 21.37 s 
+[DEBUG] [2018-07-18 02:12:20] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:12:22] Rank = 1, Iter = 176, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:12:22] Rank = 1, Alias Time used: 0.39 s 
+[INFO] [2018-07-18 02:13:24] Rank = 1, Training Time used: 62.09 s 
+[INFO] [2018-07-18 02:13:24] Rank = 1, sampling throughput: 37075.249437 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:13:26] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:13:29] Rank = 1, Iter = 177, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:13:30] Rank = 1, Alias Time used: 0.48 s 
+[INFO] [2018-07-18 02:14:32] Rank = 1, Training Time used: 62.44 s 
+[INFO] [2018-07-18 02:14:32] Rank = 1, sampling throughput: 36879.398111 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:14:34] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:14:36] Rank = 1, Iter = 178, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:14:36] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 02:15:38] Rank = 1, Training Time used: 62.20 s 
+[INFO] [2018-07-18 02:15:38] Rank = 1, sampling throughput: 37021.629439 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:15:39] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:15:41] Rank = 1, Iter = 179, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:15:42] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 02:16:44] Rank = 1, Training Time used: 62.16 s 
+[INFO] [2018-07-18 02:16:44] Rank = 1, sampling throughput: 37039.485531 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:16:45] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:16:47] Rank = 1, Iter = 180, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:16:48] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 02:17:50] Rank = 1, Training Time used: 61.91 s 
+[INFO] [2018-07-18 02:17:50] Rank = 1, sampling throughput: 37123.042217 (tokens/thread/sec) 
+[INFO] [2018-07-18 02:18:11] doc likelihood : -1.031107e+08
+[INFO] [2018-07-18 02:18:11] Normalized likelihood : -1.733635e+09
+[INFO] [2018-07-18 02:18:11] word likelihood : 9.895351e+08
+[INFO] [2018-07-18 02:18:11] Rank = 1, Evaluation Time used: 21.15 s 
+[DEBUG] [2018-07-18 02:18:11] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:18:13] Rank = 1, Iter = 181, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:18:14] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 02:19:16] Rank = 1, Training Time used: 62.21 s 
+[INFO] [2018-07-18 02:19:16] Rank = 1, sampling throughput: 37003.790556 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:19:17] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:19:19] Rank = 1, Iter = 182, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:19:20] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 02:20:22] Rank = 1, Training Time used: 62.00 s 
+[INFO] [2018-07-18 02:20:22] Rank = 1, sampling throughput: 37123.042217 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:20:23] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:20:25] Rank = 1, Iter = 183, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:20:26] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 02:21:28] Rank = 1, Training Time used: 62.36 s 
+[INFO] [2018-07-18 02:21:28] Rank = 1, sampling throughput: 36908.939442 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:21:29] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:21:31] Rank = 1, Iter = 184, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:21:32] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 02:22:34] Rank = 1, Training Time used: 62.01 s 
+[INFO] [2018-07-18 02:22:34] Rank = 1, sampling throughput: 37129.024980 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:22:35] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:22:37] Rank = 1, Iter = 185, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:22:37] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 02:23:40] Rank = 1, Training Time used: 62.27 s 
+[INFO] [2018-07-18 02:23:40] Rank = 1, sampling throughput: 36926.686969 (tokens/thread/sec) 
+[INFO] [2018-07-18 02:24:01] doc likelihood : -1.031308e+08
+[INFO] [2018-07-18 02:24:01] Normalized likelihood : -1.733663e+09
+[INFO] [2018-07-18 02:24:01] word likelihood : 9.898731e+08
+[INFO] [2018-07-18 02:24:01] Rank = 1, Evaluation Time used: 21.22 s 
+[DEBUG] [2018-07-18 02:24:01] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:24:03] Rank = 1, Iter = 186, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:24:04] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 02:25:05] Rank = 1, Training Time used: 61.76 s 
+[INFO] [2018-07-18 02:25:05] Rank = 1, sampling throughput: 37279.223301 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:25:07] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:25:09] Rank = 1, Iter = 187, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:25:09] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 02:26:12] Rank = 1, Training Time used: 62.38 s 
+[INFO] [2018-07-18 02:26:12] Rank = 1, sampling throughput: 36914.853389 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:26:13] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:26:15] Rank = 1, Iter = 188, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:26:15] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 02:27:17] Rank = 1, Training Time used: 62.18 s 
+[INFO] [2018-07-18 02:27:17] Rank = 1, sampling throughput: 37027.579556 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:27:19] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:27:21] Rank = 1, Iter = 189, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:27:21] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 02:28:24] Rank = 1, Training Time used: 62.31 s 
+[INFO] [2018-07-18 02:28:24] Rank = 1, sampling throughput: 36938.528139 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:28:25] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:28:27] Rank = 1, Iter = 190, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:28:27] Rank = 1, Alias Time used: 0.52 s 
+[INFO] [2018-07-18 02:29:29] Rank = 1, Training Time used: 62.07 s 
+[INFO] [2018-07-18 02:29:30] Rank = 1, sampling throughput: 37087.186091 (tokens/thread/sec) 
+[INFO] [2018-07-18 02:29:51] doc likelihood : -1.031990e+08
+[INFO] [2018-07-18 02:29:51] Normalized likelihood : -1.733674e+09
+[INFO] [2018-07-18 02:29:51] word likelihood : 9.901606e+08
+[INFO] [2018-07-18 02:29:51] Rank = 1, Evaluation Time used: 21.48 s 
+[DEBUG] [2018-07-18 02:29:51] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:29:54] Rank = 1, Iter = 191, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:29:54] Rank = 1, Alias Time used: 0.42 s 
+[INFO] [2018-07-18 02:30:56] Rank = 1, Training Time used: 62.23 s 
+[INFO] [2018-07-18 02:30:56] Rank = 1, sampling throughput: 36991.907514 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:30:57] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:31:03] Rank = 1, Iter = 192, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:31:04] Rank = 1, Alias Time used: 0.41 s 
+[INFO] [2018-07-18 02:32:06] Rank = 1, Training Time used: 62.06 s 
+[INFO] [2018-07-18 02:32:06] Rank = 1, sampling throughput: 37087.186091 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:32:07] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:32:14] Rank = 1, Iter = 193, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:32:15] Rank = 1, Alias Time used: 0.43 s 
+[INFO] [2018-07-18 02:33:17] Rank = 1, Training Time used: 62.35 s 
+[INFO] [2018-07-18 02:33:17] Rank = 1, sampling throughput: 36932.606605 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:33:19] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:33:26] Rank = 1, Iter = 194, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:33:26] Rank = 1, Alias Time used: 0.40 s 
+[INFO] [2018-07-18 02:34:29] Rank = 1, Training Time used: 62.18 s 
+[INFO] [2018-07-18 02:34:29] Rank = 1, sampling throughput: 37033.531587 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:34:30] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:34:32] Rank = 1, Iter = 195, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:34:32] Rank = 1, Alias Time used: 0.39 s 
+[INFO] [2018-07-18 02:35:35] Rank = 1, Training Time used: 62.53 s 
+[INFO] [2018-07-18 02:35:35] Rank = 1, sampling throughput: 36802.811502 (tokens/thread/sec) 
+[INFO] [2018-07-18 02:35:56] doc likelihood : -1.032064e+08
+[INFO] [2018-07-18 02:35:56] Normalized likelihood : -1.733691e+09
+[INFO] [2018-07-18 02:35:56] word likelihood : 9.904234e+08
+[INFO] [2018-07-18 02:35:56] Rank = 1, Evaluation Time used: 21.27 s 
+[DEBUG] [2018-07-18 02:35:56] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:35:59] Rank = 1, Iter = 196, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:35:59] Rank = 1, Alias Time used: 0.45 s 
+[INFO] [2018-07-18 02:37:01] Rank = 1, Training Time used: 61.76 s 
+[INFO] [2018-07-18 02:37:01] Rank = 1, sampling throughput: 37273.192040 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:37:02] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:37:04] Rank = 1, Iter = 197, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:37:04] Rank = 1, Alias Time used: 0.44 s 
+[INFO] [2018-07-18 02:38:07] Rank = 1, Training Time used: 62.13 s 
+[INFO] [2018-07-18 02:38:07] Rank = 1, sampling throughput: 37063.320463 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:38:08] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:38:12] Rank = 1, Iter = 198, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:38:12] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 02:39:14] Rank = 1, Training Time used: 62.05 s 
+[INFO] [2018-07-18 02:39:15] Rank = 1, sampling throughput: 37105.105492 (tokens/thread/sec) 
+[DEBUG] [2018-07-18 02:39:16] Request params. start = 1, end = 648730
+[INFO] [2018-07-18 02:39:17] Rank = 1, Iter = 199, Block = 0, Slice = 0
+[INFO] [2018-07-18 02:39:18] Rank = 1, Alias Time used: 0.47 s 
+[INFO] [2018-07-18 02:40:20] Rank = 1, Training Time used: 62.33 s 
+[INFO] [2018-07-18 02:40:20] Rank = 1, sampling throughput: 36938.528139 (tokens/thread/sec) 
+[INFO] [2018-07-18 02:40:22] Rank 1/2: End of training.
+[INFO] [2018-07-18 02:40:22] Server 1: Received close message from worker 0.
+[INFO] [2018-07-18 02:40:22] Server 1: Received close message from worker 1.
+[INFO] [2018-07-18 02:40:22] Server 1: Dump model...
+[INFO] [2018-07-18 02:40:27] Server 1 closed.
+[INFO] [2018-07-18 02:40:28] Rank 1/2: Multiverso closed successfully.

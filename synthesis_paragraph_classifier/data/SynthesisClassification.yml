@@ -1,0 +1,20 @@
+model_path: Model-2018-08-02-12_02_36-lightlda_r0_paragraph_topic_100-lightlda_r0_sentence_topic_200-RandomForest-all.pypickle
+lightlda_models:
+  lightlda_r0_paragraph_topic_100:
+    lightlda_inference: 'infer_singlethread'
+    ntopics: 100
+    nvocabulary: 650000
+    alpha: 0.05
+    random_seed: 999
+    input_dir: 'topic_100_p'
+    output_dir: 'topic_100_p'
+    niterations: 50
+  lightlda_r0_sentence_topic_200:
+    lightlda_inference: 'infer_singlethread'
+    ntopics: 200
+    nvocabulary: 641000
+    alpha: 0.025
+    random_seed: 999
+    input_dir: 'topic_200_s'
+    output_dir: 'topic_200_s'
+    niterations: 50
