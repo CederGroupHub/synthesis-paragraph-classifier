@@ -431,7 +431,7 @@ class LightLDAInference(LightLDAOutput):
         self.vocabulary = Vocabulary.load(os.path.join(self.input_dir, 'corpus.dict'))
 
         self.command_line = [
-            os.path.realpath(lightlda_inference),
+            lightlda_inference,
             '-rand', '%d' % random_seed,
             '-num_vocabs', '%d' % nvocabulary,
             '-num_topics', '%d' % ntopics,
