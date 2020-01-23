@@ -122,6 +122,13 @@ class SynthesisClassifier(object):
         """
         return pickle.loads(s)
 
+    def featurize(self, topics):
+        features = {}
+        for featurizer in self.featurizer_list:
+            features.update(featurizer.featurize([topics])[0])
+        features_vectorized = self.vectorizer.transform([features])
+        return features_vectorized[0]
+
     def predict(self, data_with_topics, return_decision_path=False):
         features = [{} for x in data_with_topics]
         for featurizer in self.featurizer_list:
@@ -223,7 +230,36 @@ class SynthesisClassification(object):
 
         return trials
 
+    @property
+    def feature_names(self):
+        """
+        Returns feature names of the vectors from featurize_paragraph().
+        :return: list of feature names
+        """
+        return self.classification_model.vectorizer.get_feature_names().copy()
+
+    def featurize_paragraph(self, paragraph):
+        """
+        Featurize a text paragraph, return a single sparse vector.
+
+        :param paragraph: Paragraph string to be featurized.
+        :type paragraph: str
+        :return: Feature of this paragraph
+        :rtype: scipy.sparse.csr.csr_matrix
+        """
+        topics = self._calculate_topics(paragraph, 1)[0]
+        return self.classification_model.featurize(topics)
+
     def classify_paragraph(self, paragraph, restart=1):
+        """
+        Classify a text paragraph.
+
+        :param paragraph: Paragraph string to be featurized.
+        :type paragraph: str
+        :param restart: Times to restart classification. DO NOT USE.
+        :return: (label_predicted, confidence_score, detailed_result)
+        :rtype: tuple(str, float, dict)
+        """
         repeated_documents = self._calculate_topics(paragraph, restart)
 
         predictions, decision_paths = self.classification_model.predict(
