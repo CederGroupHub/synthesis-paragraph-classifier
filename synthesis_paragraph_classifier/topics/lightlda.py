@@ -338,6 +338,17 @@ class LightLDAOutput(object):
 
         return topic_words
 
+    def word_topic_array(self):
+        wt_table = self.word_topic_table()
+        max_words = max(wt_table.keys())
+        max_topics = max(max(x.keys()) for x in wt_table.values()) + 1
+        wt_array = numpy.zeros((max_topics, max_words), dtype=int)
+        for word, topics in wt_table.items():
+            for t, n in topics.items():
+                wt_array[t, word-1] = n
+
+        return wt_array
+
     def word_topic_table_sorted(self):
         topic_words = self.word_topic_table()
         for t, v in topic_words.items():

@@ -44,6 +44,17 @@ array([[0.   , 0.   , 0.   , 0.   , 0.   , 0.   , 0.   , 0.417, 0.167,
         0.   , 0.   , 0.   , 0.   , 0.   , 0.   , 0.   , 0.   , 0.   ,
         0.   , 0.   , 0.   , 0.   , 0.   , 0.   , 0.   , 0.   ]])
 ```
+
+To understand the meaning of each topic:
+```
+>>> wt_array = model.sentence_model.word_topic_array()
+>>> vocab = model.sentence_model.dictionary()
+>>> topic = 106
+>>> # Must index vocab by x+1 because dictionary starts with 1
+>>> [vocab[x+1] for x in wt_array[topic].argsort()[::-1][:20]]
+[('CDEMATERIAL', 7019040), ('catalysts', 69308), ('prepared', 445882), ('catalyst', 186558), ('Pt', 74807), ('Pd', 35475), ('impregnation', 19050), ('wt', 125222), ('wt.', 94609), ('support', 28711), ('supported', 21339), ('metal', 87752), ('Ni', 43061), ('method', 200712), ('loading', 46317), ('Au', 33957), ('Ru', 10093), ('aqueous', 200616), ('Co', 25039), ('solution', 1024075)]
+>>> # Seems topic 106 is about making catalysts.
+```
 ## Citing
 
 ```
