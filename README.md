@@ -6,6 +6,8 @@ This repo contains codes and data for the paper "Huo, Haoyan, et al. "Semi-super
 
 To run this code, you must compile and install [LightLDA](https://github.com/hhaoyan/LightLDA) (a LDA implementation by Microsoft Research), and put `infer_singlethread` in your `PATH` environment variable.
 
+Pre-compiled binaries can be found [here](https://github.com/hhaoyan/LightLDA/tree/master/binaries).
+
 ## Example usage
 
 The basic usage is to classify a paragraph:
