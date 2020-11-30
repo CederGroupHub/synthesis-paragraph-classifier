@@ -1,3 +1,5 @@
+# Please also see the new classifier powered by MatBERT: https://github.com/CederGroupHub/MatBERT-synthesis-classifier
+
 ## Synthesis paragraph classifier
 
 This repo contains codes and data for the paper "Huo, Haoyan, et al. "Semi-supervised machine-learning classification of materials synthesis procedures." npj Computational Materials 5.1 (2019): 1-7.".
